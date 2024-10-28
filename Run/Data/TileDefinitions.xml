@@ -1,0 +1,10 @@
+<TileDefinitions>
+	<TileDefinition name = "GRASS_1"	spriteIndex = "0"	isSolid = "false"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "GRASS_2"	spriteIndex = "2"	isSolid = "false"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "STONE"		spriteIndex = "17"	isSolid = "true"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "BASE_WALL"	spriteIndex = "53"	isSolid = "true"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "BASE_FLOOR" spriteIndex = "51"	isSolid = "false"	isWater = "false"	tint = "255, 255, 255, 100"/>
+	<TileDefinition name = "BASE_START" spriteIndex = "56"	isSolid = "false"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "BASE_END"	spriteIndex = "57"	isSolid = "false"	isWater = "false"	tint = "255, 255, 255, 255"/>
+	<TileDefinition name = "WATER"		spriteIndex = "61"	isSolid = "true"	isWater = "true"	tint = "255, 255, 255, 255"/>
+</TileDefinitions>

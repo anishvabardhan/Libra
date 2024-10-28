@@ -1,0 +1,49 @@
+<MapDefinitions>
+	<MapDefinition
+		name="Approach"
+		dimensions="48,24"
+		fillTileType="GRASS_1"
+		edgeTileType="STONE"
+		worm1TileType="GRASS_2"	worm1Count="15"	worm1MaxLength="15"
+		worm2TileType="WATER"	worm2Count="30"	worm2MaxLength="10"
+		BunkerFloorTileType="BASE_FLOOR"
+		BunkerWallTileType="BASE_WALL"
+		MapStartTileType ="BASE_START"
+		MapEndTileType ="BASE_END"
+		leoCount="1"
+		ariesCount="1"
+		scorpioCount="3"
+		capricornCount="5"
+   />
+
+	<MapDefinition
+		name="Courtyard"
+		dimensions="24,24"
+		fillTileType="GRASS_1"
+		edgeTileType="STONE"
+		worm1TileType="GRASS_2"	worm1Count="30"	worm1MaxLength="6"
+		worm2TileType="STONE"	worm2Count="30"	worm2MaxLength="4"
+		BunkerFloorTileType="BASE_FLOOR"
+		BunkerWallTileType="BASE_WALL"
+		MapStartTileType ="BASE_START"
+		MapEndTileType ="BASE_END"
+		leoCount="20"
+		ariesCount="0"
+		scorpioCount="20"
+   />
+
+	<MapDefinition
+		name="Tunnel"
+		dimensions="50,8"
+		fillTileType="GRASS_1"
+		edgeTileType="STONE"
+		worm1TileType="GRASS_2"	worm1Count="12"	worm1MaxLength="5"
+		worm2TileType="STONE"	worm2Count="30"	worm2MaxLength="4"
+		BunkerFloorTileType="BASE_FLOOR"
+		BunkerWallTileType="BASE_WALL"
+		MapStartTileType ="BASE_START"
+		MapEndTileType ="BASE_END"
+		leoCount="10"
+		scorpioCount="8"
+   />
+</MapDefinitions>
